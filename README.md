@@ -6,7 +6,6 @@ This is a simple command-line implementation of the classic Tetris game written 
 ##Table of Contents
 Game Overview
 
-Table of Contents
 
 Game Controls
 
