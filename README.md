@@ -1,9 +1,9 @@
 # Tetris-game-project
 
-Tetris Game - C++ Implementation
+#Tetris Game - C++ Implementation
 This is a simple command-line implementation of the classic Tetris game written in C++. The game allows the player to manipulate falling tetrominoes in a grid, clearing lines as they accumulate blocks.
 
-Table of Contents
+##Table of Contents
 Game Overview
 
 Table of Contents
