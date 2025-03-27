@@ -89,6 +89,16 @@ To play the game:
 3. **class Game**:
    - Contains the main logic for gameplay, input handling, and the core game loop.
 
+4.**Collision Detection (Function with Loops)**
+  -Purpose: Checks if moving the tetromino will result in a collision.
+
+-Checks:
+
+a)Wall Collision (left/right boundary)
+
+b)Ground Collision (bottom boundary)
+
+c)Piece Collision (stacked tetrominoes)
 ---
 
 ## Conclusion
