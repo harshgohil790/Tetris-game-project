@@ -42,9 +42,8 @@ To play the game:
     - *Escape (ESC)*: Exit the game
 
 ---
-<br>
-<img src="![WhatsApp Image 2025-03-28 at 12 34 53_2e5cb7ef](https://github.com/user-attachments/assets/077245c3-089a-4f00-8516-46672dedc80f)
-" alt="Tetris Game" width="400">
+![WhatsApp Image 2025-03-28 at 12 40 08_8501f8ee](https://github.com/user-attachments/assets/73949ee3-9e8e-4032-8431-b8f27fd9f22e)
+
 
 
 ## Game Features
