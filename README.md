@@ -31,7 +31,7 @@ To play the game:
     
 3. Execute the compiled program:
     bash
-    ./tetris
+    ./TetrisGame
     
 4. Use the controls listed below during gameplay:
     - *Left Arrow*: Move the Tetromino piece left
