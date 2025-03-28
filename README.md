@@ -27,7 +27,7 @@ To play the game:
     
 2. Compile the source code:
     bash
-    g++ -o tetris tetris.cpp
+    g++ -o tetris TetrisGame.cpp
     
 3. Execute the compiled program:
     bash
