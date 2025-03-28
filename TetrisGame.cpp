@@ -22,7 +22,7 @@ vector<vector<vector<int>>> tetrominoShapes = {
     {{1,0,0,0}, {1,0,0,0}, {1,1,0,0}, {0,0,0,0}}  // L
 };
 
-// Define colors for shapes (Windows Console Colors)
+// Define colors for shapes 
 vector<int> shapeColors = {5, 2, 4, 3, 6, 1, 14}; // T, S, Z, I, O, J, L
 
 // Function to set console text color
